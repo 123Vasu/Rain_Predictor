@@ -1,15 +1,15 @@
 
 <h1 align='center'>Rain-Prediction</h1>
 
-###  ***This project is a **'Google Solution Challenge Project'** on the topic of - *Environment*. This is our si.*** 
+###  ***This project is a **'Google Solution Challenge Project'** on the topic of - *Environment*. This is our sincere effort to setup a co-operation between mankind and the environment.*** 
 
 <br>
 
 
 
-# <u> `Hello, I am Sprint!` :wave:</u>
+# <u> `Hello, I am Rainy Brain!` :wave:</u>
   
-**A Python based application created by four tech-savvy Microsoft Learn Student Ambassadors.
+**A machine learning model created by four tech-savvy students.
 Read through these lines to know more about me :smiley:**
 <br>
 
@@ -29,9 +29,8 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project tries to solve this issue by providing a way to predict the rains for the next day.The prediction is based on the location and the historical trends of rainfall of that area.br>
+**Our project tries to solve this issue by providing a way to predict the rains for the next day.The prediction is based on the location and the historical trends of rainfall of that area.<br>**
 
-****
 
 <br>
 
