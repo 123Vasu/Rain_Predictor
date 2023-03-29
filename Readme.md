@@ -29,7 +29,7 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project predicts whether it will rain tomorrow or not by using the Rainfall in Australia dataset This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc.Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.<br>**
+**Our project predicts whether it will rain tomorrow or not by using the Rainfall in Australia dataset This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc.Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.We didn't get any dataset related to Indian rainfall on Kaggle,so we went on with the Australian data to train our model.<br>**
 
 
 <br>
@@ -49,11 +49,11 @@ Read through these lines to know more about me :smiley:**
 
 **:seedling: As you tap on the link to our site, you will get to see the 'About' section and a little bit about us. **<br>
 
-**:seedling:Select the 'Predictor' option and fill in the details like Date, Maximum temperature, Minimum temperature, rainfall, evaporation and the rest.**
+**:seedling:Select the 'Predictor' option and fill in the details like Date, Maximum temperature, Minimum temperature, rainfall, evaporation and the rest.<br>**
 
-**:seedling: Take special care in selecting the Location.**
+**:seedling: Take special care in selecting the Location.<br>**
 
-**:seedling: In just few seconds you will get 89% accurate prediction about the next day's rainfall.**
+**:seedling: In just few seconds you will get 89% accurate prediction about the next day's rainfall.<br>**
 
 
 
