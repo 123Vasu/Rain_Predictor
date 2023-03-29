@@ -1,7 +1,7 @@
 
 <h1 align='center'>Rain-Prediction</h1>
 
-###  ***This project is a **'SOCIAL IMPACT PROJECT'** on the topic of - *Education*. This is our sincere effort to help educational institutions by providing them with a tool to track and analyse the attendance of the students in a hassle-free way.*** 
+###  ***This project is a **'Google Solution Challenge Project'** on the topic of - *Environment*. This is our si.*** 
 
 <br>
 
@@ -23,19 +23,15 @@ Read through these lines to know more about me :smiley:**
   
 # <u> `Problem Statement ` :mag: </u>
 
-**As students, we all are on high alert during the attendance waiting for the educator to call our name. This manual data entry for attendance takes 10-15 minutes of our valuable learning time still, there are certain inaccuracies in the data collected and it never tallies perfectly with your actual attendance record.Educators can't catch the ones giving proxy attendance for their best friends.Moreover, such big files are really hard to manage and it's a burden on the educators to analyse that written data and keep the records of every student. We believe technology should reach every level of the education system to make it more fluid. Our team understood this issue and tried to solve it with this python application.**
+**India is rich in diversity whether cultural or climatic. Rain is a mandatory phenomenon for us as most of our land is agricultural. Farmers and fishermen are our heroes as they provide us with the necessities for survival. But due to unpredictable rain cycles, most of the farmlands get damaged as the farmers are not ready to handle the untimely rain. Even many fishermen lose their lives as they fail to predict the rains beforehand.We can't lose our food providers to unpredictable climatic changes. **
 
 <br>
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project is a Facial Recognition Attendance System based on Python which uses Opencv. It has many benefits over the traditional attendance systems that use ID cards or signatures. Face recognition technology is highly accurate and can identify individuals with a high level of precision. This means that there is less chance of errors in the attendance records. Some of the other benefits include -**<br>
+**Our project tries to solve this issue by providing a way to predict the rains for the next day.The prediction is based on the location and the historical trends of rainfall of that area.br>
 
-**:sun_with_face: A face recognition attendance system can save a significant amount of time compared to manual systems. It can quickly capture attendance data and process  it automatically, without requiring any manual intervention.**<br>
-
-**:sun_with_face: It is more secure than traditional systems that rely on ID cards or signatures. It is much harder for someone to impersonate another person or cheat the system, as face recognition technology can detect such attempts.**
-
-`P.s. We have made a smart tool which will keep the students on the right 'attendance' track!`
+****
 
 <br>
 
