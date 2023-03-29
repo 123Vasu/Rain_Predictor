@@ -6,35 +6,39 @@
     <title>Rainy Brain</title>
     <link rel="stylesheet" href={{url_for('static',filename='style1.css')}}>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   </head>
   <body>
 
     <section>
       <input type="checkbox" id="check">
       <header>
-        </div>
+        <div class="top">
         <h2><a href="#" class="logo">Rainy Brain</a></h2>
         <div class="navigation">
           <a href="#">Home</a>
           <a href="#about">About Rainy Brain</a>
           <a href="#info">Developer</a>
           <a href="/predict">Predictor</a>
+          <a href="#team">Team</a>
         </div>
+        
         <label for="check">
         <i class="fas fa-bars menu-btn"></i>
         <i class="fas fa-times close-btn"></i>
         </label>
+      </div>
       </header>
       <div class="content" style="margin-top: 8%;">
         <div class="info">
           <h2>Plant Trees <br><span>Save Rain</span></h2>
-          <p> "Plant trees to bring the rains and get rid of the summer's heat.” - Trees help reduce and moderate the temperature and climate, which is why it is so important that we have more of them</p>
+          <p> "Plant trees to bring the rains and get rid of the summer's heat." - Trees help reduce and moderate the temperature and climate, which is why it is so important that we have more of them</p>
           <a href="#about" class="info-btn">More info</a>
         </div>
       </div>
       <div class="media-icons">
-        <a href="https://www.linkedin.com/in/aroravasu123/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/123Vasu"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/123Vasu/Rain_Predictor"><i class="fab fa-github"></i></a>
       </div>
     </section>
 
@@ -43,43 +47,167 @@
       <p class="about-content" style="text-align: center;">Rainy Brain is a web app which has 
       a Machine Learning model running at the back. The purpose of developing this app is to 
       predict whether it will rain the next day or not. This model is based on the Rain Prediction
-      in Australia dataset. The codes for this project can be checked in my <a href="https://github.com/123Vasu/Rain_Prediction-" style="color: black; font-weight: bold;">github repo</a>. More than 80% of Australia has an annual rainfall of less than  
+      in Australia dataset. The codes for this project can be checked in my <a href="https://github.com/123Vasu/Rain_Predictor" style="color: black; font-weight: bold;">github repo</a>. More than 80% of Australia has an annual rainfall of less than  
       600 mm which is less among the all continents other than Antartica which recieves less 
-      rainfall. A place inland near Lake Eyre would only receive 81 mm of rain annually. The 
-      average annual rainfall in the Australian desert is low, ranging from 81 to 250 mm. 
+      rainfall. A place inland near Lake Eyre would only receive 81 mm of rain annually.
+      </p>
+        <p class="about-content" style="text-align: center;">The average annual rainfall in the Australian desert is low, ranging from 81 to 250 mm. 
       Thunderstorms are relatively common in the region, with an annual average of 15 to 20 
       thunderstorms. The southern parts of Australia get the usual westerly winds and 
       rain-bearing cold fronts that come when high–pressure systems move towards northern 
       Australia during winter. Cold snaps may bring frosts inland, though temperatures near the
       coast are mild or near mild all year round. Summers in southern Australia are generally 
-      dry and hot with coastal sea breezes. During a lengthy dry spell, hot and dry winds from 
+      dry and hot with coastal sea breezes.</p>
+      <p class="about-content" style="text-align: center;"> During a lengthy dry spell, hot and dry winds from 
       the interior can cause bushfires in some southern and eastern states, though most commonly
       Victoria and New South Wales. The tropical areas of northern Australia have a wet summer 
       because of the monsoon. During "the wet",typically October to April, humid north-westerly
        winds bring showers and thunderstorms. Occasionally, tropical cyclones can bring heavy 
        rainfall to tropical coastal regions, which is also likely to reach further inland. 
       </p>
+    </section>
     
     <section id="info">
       <div>
         <h2>Developer</h2>
-        <p class="about-content"> Hi, I'm Vasu Arora, from India. 
-          Currently, I'm learning ML, DL, CV & NLP. I am also trying
-          to do some projects for my college too. Always curious to learn something new in
-          the field of Data Science. Beside's programming, I enjoy playing games and watching youtube. 
-          Below I have given my social media links. Happy to have new connections.</p>
+        <p class="about-content"> We are Vasu, Deep, Kiran, and Devraj, a team of four talented undergraduate software engineers. With a shared passion for coding, problem-solving, and innovation, we work seamlessly together to create cutting-edge software solutions. With diverse backgrounds and a wide range of technical expertise, we bring a fresh perspective and unique ideas to every project we tackle.</p>
       </div>
     </section>
 
-    <footer>
-      <p>
-        Developed with ❤️ by Vasu Arora 
-      </p> 
-      <div class="media-icons">
-        <a href="https://www.linkedin.com/in/aroravasu123/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/123Vasu"><i class="fab fa-github"></i></a>
-      </div>
-    </footer>
+    <!-- 1st Member -->
+<div class="container" id="team">
+  
+    <h2>Team</h2>
+    <div id="team-content">
+<div class="col-md-3 col-sm-6">
+
+                <div class="our-team">
+
+                    <div class="pic">
+
+                        <img src="../static/image1.jpeg">
+
+                    </div>
+
+                    <h3 class="title">Vasu Arora</h3>
+
+                    <span class="post">Software Developer</span>
+
+
+                   <ul class="social">
+
+               <li><a href="https://github.com/123Vasu" class="fa fa-github"></a></li>
+
+               <li><a href="https://www.linkedin.com/in/aroravasu123/" class="fa fa-linkedin"></a></li>
+
+        </ul>
+
+
+                </div>
+
+            </div>
+
+
+    <!-- <!–2nd member–> -->
+
+     
+
+            <div class="col-md-3 col-sm-6">
+
+                <div class="our-team">
+
+                    <div class="pic">
+
+                        <img src="../static/image3.jpeg">
+
+                    </div>
+
+                    <h3 class="title">Dverajsinh Gohil</h3>
+
+                    <span class="post">Software Developer</span>
+
+
+                    <ul class="social">
+
+               <li><a href="https://github.com/Devrajsinh-Gohil" class="fa fa-github"></a></li>
+
+               <li><a href="https://www.linkedin.com/in/devrajsinh/" class="fa fa-linkedin"></a></li>
+
+        </ul>
+
+
+                </div>
+
+            </div>
+
+
+    <!-- <!–3rd member–> -->
+
+    
+
+            <div class="col-md-3 col-sm-6">
+
+                <div class="our-team">
+
+                    <div class="pic">
+
+                        <img src="../static/image2.jpeg">
+
+                    </div>
+
+                    <h3 class="title">Simrandeep Singh</h3>
+
+                    <span class="post">Software Developer</span>
+
+                    
+
+                    <ul class="social">
+
+               <li><a href="https://github.com/deepsingh245" class="fa fa-github"></a></li>
+
+               <li><a href="https://www.linkedin.com/in/simrandeep-singh-7bb74b234/" class="fa fa-linkedin"></a></li>
+
+        </ul>
+
+   
+
+                </div>
+
+            </div>
+
+
+    <!-- <!–4th member–> -->
+
+
+            <div class="col-md-3 col-sm-6">
+
+                <div class="our-team">
+
+                    <div class="pic">
+
+                        <img src="../static/image4.jpeg">
+
+                    </div>
+
+                    <h3 class="title">Kiran Mishra</h3>
+
+                    <span class="post">Software Developer</span>
+
+
+                    <ul class="social">
+
+               <li><a href="https://github.com/Kirann21" class="fa fa-github"></a></li>
+
+               <li><a href="https://www.linkedin.com/in/kiranmishra21" class="fa fa-linkedin"></a></li>
+
+        </ul>
+
+
+                </div>
+
+            </div>
+          </div>
+</div>
 
   </body>
 </html>
