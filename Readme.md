@@ -23,7 +23,7 @@ Read through these lines to know more about me :smiley:**
   
 # <u> `Problem Statement ` :mag: </u>
 
-**India is rich in diversity whether cultural or climatic. Rain is a mandatory phenomenon for us as most of our land is agricultural. Farmers and fishermen are our heroes as they provide us with the necessities for survival. But due to unpredictable rain cycles, most of the farmlands get damaged as the farmers are not ready to handle the untimely rain. Even many fishermen lose their lives as they fail to predict the rains beforehand.We can't lose our food providers to unpredictable climatic changes. **
+**India is rich in diversity whether cultural or climatic. Rain is a mandatory phenomenon for us as most of our land is agricultural. Farmers and fishermen are our heroes as they provide us with the necessities for survival. But due to unpredictable rain cycles, most of the farmlands get damaged as the farmers are not ready to handle the untimely rain. Even many fishermen lose their lives as they fail to predict the rains beforehand.We can't lose our food providers to unpredictable climatic changes.**
 
 <br>
 
