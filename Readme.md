@@ -61,7 +61,7 @@ Read through these lines to know more about me :smiley:**
 # <u> `Some Glimpses` 🌤️: </u>
 
 ![alt text](https://github.com/123Vasu/Rain_Predictor/blob/main/RainyBrain1.jpeg)
-![alt text]()
+![alt text](https://github.com/123Vasu/Rain_Predictor/blob/main/RainyBrain2.jpeg)
 ![alt text]()
 ![alt text]()
 
