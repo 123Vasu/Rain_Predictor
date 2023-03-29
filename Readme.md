@@ -29,7 +29,7 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project predicts whether it will rain tomorrow or not by using the Rainfall in Australia dataset This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc.Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others. Here due to my system compatibility is very low. So we havent done hyperparameter tuning.We didn't get any dataset related to Indian rainfall so we went on with the Australian data to train our model.<br>**
+**Our project predicts whether it will rain tomorrow or not by using the Rainfall in Australia dataset This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc.Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.<br>**
 
 
 <br>
