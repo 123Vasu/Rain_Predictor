@@ -47,7 +47,7 @@ Read through these lines to know more about me :smiley:**
 # <u> `How 'Rainy Brain' Works` 💡</u>
 
 
-**:seedling: As you tap on the link to our site, you will get to see the 'About' section and a little bit about us. **<br>
+**:seedling: As you tap on the link to our site, you will get to see the 'About' section and a little bit about us.**<br>
 
 **:seedling:Select the 'Predictor' option and fill in the details like Date, Maximum temperature, Minimum temperature, rainfall, evaporation and the rest.<br>**
 
@@ -55,6 +55,10 @@ Read through these lines to know more about me :smiley:**
 
 **:seedling: In just few seconds you will get 89% accurate prediction about the next day's rainfall.<br>**
 
+
+<br>
+
+# <u> `Some Glimpses` 🌤️: </u>
 
 
 
