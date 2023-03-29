@@ -16,7 +16,7 @@ Read through these lines to know more about me :smiley:**
 # <u>`Teammates` :gem: </u>  
 
    ***:octocat: [Vasu Arora (Lead)](https://github.com/123Vasu)<br>
-    :octocat: [Simrandeep Singh]()<br>
+    :octocat: [Simrandeep Singh](https://github.com/deepsingh245)<br>
     :octocat: [Devrajsinh Gohil](https://github.com/Devrajsinh-Gohil)<br>
     :octocat: [Kiran Mishra](https://github.com/Kirann21)<br>***
   <br>
