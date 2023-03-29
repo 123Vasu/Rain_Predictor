@@ -9,7 +9,7 @@
 
 # <u> `Hello, I am Rainy Brain!` :wave:</u>
   
-**A machine learning model created by four tech-savvy students.
+**A machine learning model created by four tech-savvy undergraduate students.
 Read through these lines to know more about me :smiley:**
 <br>
 
@@ -29,7 +29,7 @@ Read through these lines to know more about me :smiley:**
 
 # <u> `Project Overview` :star2: </u>
 
-**Our project tries to solve this issue by providing a way to predict the rains for the next day.The prediction is based on the location and the historical trends of rainfall of that area.<br>**
+**Our project predicts whether it will rain tomorrow or not by using the Rainfall in Australia dataset This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc.Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others. Here due to my system compatibility is very low. So we havent done hyperparameter tuning.We didn't get any dataset related to Indian rainfall so we went on with the Australian data to train our model.<br>**
 
 
 <br>
@@ -38,18 +38,23 @@ Read through these lines to know more about me :smiley:**
 
 **:round_pushpin: Front-End : HTML, CSS, Bootstrap<br> 
  :round_pushpin: Back-End : Flask<br>
- :round_pushpin: IDE : Jupyter notebook, Pycharm<br>**
+ :round_pushpin: IDE : Jupyter notebook, Visual Studio Code
+ :round_pushpin: Dataset used : (link)<br>**
    
 
 <br>
 
-# <u> `How it Works` 💡</u>
+# <u> `How 'Rainy Brain' Works` 💡</u>
 
-**Our face recognition application basically works in two phases -** <br>
 
-**:seedling: The registration phase - Each student needs to enter his/her name and unique ID and press the 'Add New User' button. The camera module turns on and captures the face of the student and saves it in the database along with the name and ID. For each student, 49 pictures are captured by the camera module so that no erroneous attendance is recorded.**<br>
+**:seedling: As you tap on the link to our site, you will get to see the 'About' section and a little bit about us. **<br>
 
-**:seedling: Once the registration phase is over, the system gets fully trained to take attendance. Each student present just needs to sit in front of the camera module and press the 'Take Attendance' button. The camera module searches for the student's face in the stored database and reflects the attendance with the name, ID and time in less than 5 seconds.**
+**:seedling:Select the 'Predictor' option and fill in the details like Date, Maximum temperature, Minimum temperature, rainfall, evaporation and the rest.**
+
+**:seedling: Take special care in selecting the Location.**
+
+**:seedling: In just few seconds you will get 89% accurate prediction about the next day's rainfall.**
+
 
 
 
