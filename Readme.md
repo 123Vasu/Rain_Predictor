@@ -14,9 +14,10 @@ Read through these lines to know more about me :smiley:**
 <br>
 
 # <u> `Website Link` :link:</u>
-#[https://rainpredictor.el.r.appspot.com/](https://rainpredictor.el.r.appspot.com/)
+[https://rainpredictor.el.r.appspot.com/](https://rainpredictor.el.r.appspot.com/)
 
 <br>
+
 # <u>`Teammates` :gem: </u>  
 
    ***:octocat: [Vasu Arora (Lead)](https://github.com/123Vasu)<br>
