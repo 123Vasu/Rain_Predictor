@@ -1,5 +1,5 @@
 
-<h1 align='center'> MLSA-SPRINT-EDUCATION </h1>
+<h1 align='center'>Rain-Prediction</h1>
 
 ###  ***This project is a **'SOCIAL IMPACT PROJECT'** on the topic of - *Education*. This is our sincere effort to help educational institutions by providing them with a tool to track and analyse the attendance of the students in a hassle-free way.*** 
 
@@ -16,9 +16,9 @@ Read through these lines to know more about me :smiley:**
 # <u>`Teammates` :gem: </u>  
 
    ***:octocat: [Vasu Arora (Lead)](https://github.com/123Vasu)<br>
+    :octocat: [Simrandeep Singh]()<br>
     :octocat: [Devrajsinh Gohil](https://github.com/Devrajsinh-Gohil)<br>
-    :octocat: 
-    :octocat: [Kiran Mishra](https://github.com/Kirann21)<br> ***
+    :octocat: [Kiran Mishra](https://github.com/Kirann21)<br>***
   <br>
   
 # <u> `Problem Statement ` :mag: </u>
